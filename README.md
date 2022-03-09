@@ -26,8 +26,6 @@
 <div style="display-flex: row"> 
 <div> 
   <a href="https://www.youtube.com/channel/UCloM_pbU-VWyldQ3foxXr7Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  
   <a href="https://www.instagram.com/drieloliveira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
   <a href = "mailto:contato.adrielaurentino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
