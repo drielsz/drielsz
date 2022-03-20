@@ -1,7 +1,8 @@
 ### Opa, seja bem vindo. Eu sou Adriel Laurentino 👋
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando React Native
+- 🔭 Atualmente trabalho com front-end e tenho leves experiências com back-end
+- 🌱 Estudando Back-end
+- 🌱 Flask
 - 📫 Contate-me no email: contato.adrielaurentino@gmail.com
 
 <div align="left">
