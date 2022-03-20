@@ -1,6 +1,7 @@
 ### Opa, seja bem vindo. Eu sou Adriel Laurentino 👋
 
 - 🔭 Atualmente trabalho com front-end e tenho leves experiências com back-end
+- 📘 Ténico em informática
 - 🌱 Estudando Back-end
 - 🌱 Flask
 - 📫 Contate-me no email: contato.adrielaurentino@gmail.com
