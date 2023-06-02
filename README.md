@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com front-end e tenho leves experiências com back-end
 - 📘 Técnico em informática
 - 🌱 Estudando Back-end
-- 🎂 17 Anos
+- 🎂 18 Anos
 - 📫 Contate-me no email: contato.adrielaurentino@gmail.com
 
 <div align="left">
